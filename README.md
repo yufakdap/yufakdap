@@ -6,5 +6,4 @@
 - 💬 Ask me about cyptocurrency,Blockchain,smartcontracts 
 - 📫 How to reach me: twitter-@dev420500
 - 😄 Pronouns: .he/his
-- ⚡ Fun fact: ...
--->
+
